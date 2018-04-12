@@ -1,0 +1,24 @@
+{
+  "name": "follower-mongoose-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "follower-model.js",
+  "dependencies": {
+    "mongoose": "^5.0.14",
+    "mongoose-timestamp": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-Raiyan/follower-mongoose-schema.git"
+  },
+  "author": "Muhammad RAiyanul Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Muhammad-Raiyan/follower-mongoose-schema/issues"
+  },
+  "homepage": "https://github.com/Muhammad-Raiyan/follower-mongoose-schema#readme"
+}
