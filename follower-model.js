@@ -8,6 +8,7 @@ const followerSchema = mongoose.Schema({
     
     followers: [{
         username: String,
+        id: String
     }]
 });
 
